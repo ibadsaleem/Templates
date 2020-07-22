@@ -1,6 +1,6 @@
-                                                                          ===============
-                                                                          !  QUESTIONS  !
-                                                                          ===============
+                                                         ===============
+                                                         !  QUESTIONS  !
+                                                         ===============
 1. Create a c++ Program to add, subtract, multiply and divide two numbers using class template. Two numbers can be of same datatype or combination of different data types.
 
 2. Create a c++ Program to swap the data using template function, instead of calling a function by passing a value, use call by reference , Two numbers can be of same datatype or    combination of different data types.
